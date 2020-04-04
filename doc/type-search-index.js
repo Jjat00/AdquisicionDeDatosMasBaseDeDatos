@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"laboratorioUnoInterfaces","l":"Archivos"},{"p":"laboratorioUnoInterfaces","l":"Grafica"},{"p":"laboratorioUnoInterfaces","l":"GUILaboratorio"},{"p":"laboratorioUnoInterfaces","l":"Principal"}]
